@@ -77,7 +77,7 @@ public class AcMain extends AppCompatActivity implements View.OnClickListener {
                 .build();
     }
 
-    public void setupMenu(){
+    public void setupMenu() {
 
     }
 
